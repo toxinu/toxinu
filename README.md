@@ -34,3 +34,7 @@ Talk to me about
 - Backend development using **Python & Golang**
 - Front-end development using **React, Typescript**
 - Devops using **Terraform, AWS, GCP, Consul, Ansible**
+
+<img align="left" alt="toxinu's Github" src="https://github.com/toxinu/toxinu/raw/master/assets/DSCF8353.jpg" />
+<br />
+<img align="left" alt="toxinu's Github" src="https://github.com/toxinu/toxinu/raw/master/assets/DSCF8642.jpg" />
