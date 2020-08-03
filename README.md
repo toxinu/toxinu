@@ -6,6 +6,11 @@
 <a href="https://www.linkedin.com/in/toxinu/">
   <img align="left" alt="toxinu's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
+<a href="https://www.instagram.com/toxinu_/">
+  <img align="left" alt="toxinu's Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
 <a href="https://github.com/toxinu">
   <img align="left" alt="toxinu's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
@@ -21,12 +26,12 @@
 
 ### I am toxinu
 
-Hi, I’m Geoffrey L., french Fullstack Software Engineer / SRE working remotely from Osaka, Japan.
+Hi, I’m Geoffrey L., Fullstack Software Engineer / SRE working remotely from Osaka, Japan.
 
 My work is full of Python, Django, Javascript, React, Linux and Sysop. <3 Open source.
 
 ## 🧐 About
-I post stuff on my [blog](https://toxinu.github.io/) and sometimes on [Twitter](https://twitter.com/toxinu_). I love photography, video games and anime.
+I post stuff on my [blog](https://toxinu.github.io/) and sometimes on [Twitter](https://twitter.com/toxinu_). I love to share my photography on <a href="https://www.instagram.com/toxinu_/">Instagram</a>, play video games and watch anime.
 
 ## ⚡ Technologies
 Talk to me about
