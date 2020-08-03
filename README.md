@@ -35,8 +35,10 @@ Talk to me about
 - Front-end development using **React, Typescript**
 - Devops using **Terraform, AWS, GCP, Consul, Ansible**
 
-<img align="left" alt="toxinu's Github" src="https://github.com/toxinu/toxinu/raw/master/assets/DSCF8353.jpg" />
+<a href="https://github.com/toxinu/toxinu/raw/master/assets/DSCF8353-full.jpg">
+    <img align="left" alt="Photography example 1" src="https://github.com/toxinu/toxinu/raw/master/assets/DSCF8353.jpg" />
+</a>
 
----
-
-<img align="left" alt="toxinu's Github" src="https://github.com/toxinu/toxinu/raw/master/assets/DSCF8642.jpg" />
+<a href="https://github.com/toxinu/toxinu/raw/master/assets/DSCF8642-full.jpg">
+    <img align="left" alt="Photography example 2" src="https://github.com/toxinu/toxinu/raw/master/assets/DSCF8642.jpg" />
+</a>
