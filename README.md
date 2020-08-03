@@ -35,6 +35,8 @@ Talk to me about
 - Front-end development using **React, Typescript**
 - Devops using **Terraform, AWS, GCP, Consul, Ansible**
 
+<details>
+<summary>Want to see some of my photography? 📸</summary>
 <a href="https://github.com/toxinu/toxinu/raw/master/assets/DSCF8353-full.jpg">
     <img align="left" alt="Photography example 1" src="https://github.com/toxinu/toxinu/raw/master/assets/DSCF8353.jpg" />
 </a>
@@ -42,3 +44,4 @@ Talk to me about
 <a href="https://github.com/toxinu/toxinu/raw/master/assets/DSCF8642-full.jpg">
     <img align="left" alt="Photography example 2" src="https://github.com/toxinu/toxinu/raw/master/assets/DSCF8642.jpg" />
 </a>
+</details>
