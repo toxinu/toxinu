@@ -1,4 +1,4 @@
-## Hello World! <img src="https://raw.githubusercontent.com/freyskeyd/freyskeyd/master/Hi.gif" width="30px">
+## Hello World! <img src="https://raw.githubusercontent.com/toxinu/toxinu/master/hi.gif" width="30px">
 
 <a href="https://twitter.com/toxinu_">
   <img align="left" alt="toxinu's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -26,7 +26,7 @@
 
 ### I am toxinu
 
-Hi, I’m Geoffrey L., Fullstack Software Engineer / SRE working remotely from Osaka, Japan.
+Hi, I’m Geoffrey L., Fullstack Software Engineer / SRE working remotely from Tokyo, Japan.
 
 My work is full of Python, Django, Javascript, React, Linux and Sysop. <3 Open source.
 
