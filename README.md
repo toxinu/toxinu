@@ -1,4 +1,4 @@
-## Hello World! <img src="https://raw.githubusercontent.com/toxinu/toxinu/master/hi.gif" width="30px">
+## Hello World! <img src="https://raw.githubusercontent.com/toxinu/toxinu/master/assets/hi.gif" width="30px">
 
 <a href="https://twitter.com/toxinu_">
   <img align="left" alt="toxinu's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
