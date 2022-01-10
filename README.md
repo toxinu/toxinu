@@ -38,7 +38,7 @@ Talk to me about
 
 - Backend development using **Python & Golang**
 - Front-end development using **React, Typescript**
-- Devops using **Terraform, AWS, GCP, Consul, Ansible**
+- Devops using **Terraform, Kubernetes, AWS, GCP, Consul, Ansible**
 
 <details>
 <summary>Want to see some of my photography? 📸</summary>
