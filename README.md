@@ -50,4 +50,3 @@ Talk to me about
     <img align="left" alt="Photography example 2" src="https://github.com/toxinu/toxinu/raw/master/assets/DSCF8642.jpg" />
 </a>
 </details>
-
