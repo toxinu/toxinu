@@ -31,7 +31,7 @@ Hej, I’m Geoffrey L., Fullstack Software Engineer / DevOps working remotely fr
 My work is full of Python, Django, Javascript, React, Vue.js, Linux and Sysop. <3 Open source.
 
 ## 🧐 About
-I post stuff on my [blog](https://toxinu.github.io/) and sometimes on [Twitter](https://twitter.com/toxinu_). I love to share my photography on <a href="https://www.instagram.com/toxinu_/">Instagram</a>, play video games and watch anime.
+I post stuff on my [blog](https://toxinu.github.io/). I love to share my photographs on <a href="https://www.instagram.com/toxinu_/">Instagram</a>, play video games and watch anime.
 
 ## ⚡ Technologies
 Talk to me about
