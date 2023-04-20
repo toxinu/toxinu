@@ -3,7 +3,7 @@
 <a href="https://twitter.com/toxinu_">
   <img align="left" alt="toxinu's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/toxinu/">
+<a href="https://www.linkedin.com/in/geoffreylehee/">
   <img align="left" alt="toxinu's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
