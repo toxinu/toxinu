@@ -26,7 +26,7 @@
 
 ### I am toxinu
 
-Hej, I’m Geoffrey L., Fullstack Software Engineer / SRE working remotely from Stockholm, Sweden 🇸🇪.
+Hej, I’m Geoffrey L., Fullstack Software Engineer / DevOps working remotely from Stockholm, Sweden 🇸🇪.
 
 My work is full of Python, Django, Javascript, React, Vue.js, Linux and Sysop. <3 Open source.
 
