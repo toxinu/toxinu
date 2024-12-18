@@ -26,9 +26,9 @@
 
 ### I am toxinu
 
-Hej, I’m Geoffrey L., Fullstack Software Engineer / DevOps working remotely from Stockholm, Sweden 🇸🇪.
+Hi, I’m Geoffrey, a Fullstack Software Engineer / DevOps working remotely from Tokkyo, Japan 🇯🇵.
 
-My work is full of Python, Django, Javascript, React, Vue.js, Linux and Sysop. <3 Open source.
+My work is full of Python, Django, Javascript, React, Vue.js, Linux, and Sysop. <3 Open source.
 
 ## 🧐 About
 I post stuff on my [blog](https://toxinu.github.io/). I love to share my photographs on <a href="https://www.instagram.com/toxinu_/">Instagram</a>, play video games and watch anime.
@@ -38,7 +38,7 @@ Talk to me about
 
 - Backend development using **Python & Golang**
 - Front-end development using **React, Vue.js, Typescript**
-- Devops using **Terraform, Kubernetes, AWS, GCP, Consul, Ansible**
+- DevOps using **Terraform, Kubernetes, AWS, GCP, Consul, Ansible**
 
 <details>
 <summary>Want to see some of my photography? 📸</summary>
