@@ -19,7 +19,7 @@
   <img align="left" alt="toxinu's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/internetexplorer.svg" />
 </a>
 <br />
-
+<br />
 
 I’m Geoffrey, a Fullstack Software Engineer / DevOps working remotely from Tokkyo, Japan 🇯🇵.
 
