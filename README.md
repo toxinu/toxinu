@@ -1,7 +1,7 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/toxinu/toxinu/master/assets/hi.gif" width="30px">
 
 
-I’m Geoffrey, a Fullstack Software Engineer / DevOps working remotely from Tokkyo, Japan 🇯🇵.
+I’m Geoffrey, a Fullstack Software Engineer / DevOps working remotely from Tokyo, Japan 🇯🇵.
 
 My work is full of Python, Django, Javascript, React, Vue.js, Linux, and Sysop.
 
